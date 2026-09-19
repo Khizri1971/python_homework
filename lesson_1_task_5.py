@@ -1,5 +1,5 @@
 def print_number(num):
-    input(num)
+    print(num)
 
 
 print_number(8)
